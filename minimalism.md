@@ -13,3 +13,10 @@ Here is the list of products that I use regularly (as a minimalist)
 **Reading**
 * Kindle Oasis [https://amzn.to/3HoI4ba](https://amzn.to/3HoI4ba)
 * Kindle Oasis Premium Leather Cover - [https://amzn.to/3tfEv1I](https://amzn.to/3tfEv1I)
+
+**Misc**
+
+*(Got these products just for the patina effect)*
+* Leather Desk Pad [https://amzn.to/3pwctOn](https://amzn.to/3pwctOn)
+* Leather Mouse Pad [https://bit.ly/3700Hpj](https://bit.ly/3700Hpj)
+* Apple Watch Band: [https://bit.ly/3vCiOMm](https://bit.ly/3vCiOMm)
