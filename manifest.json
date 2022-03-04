@@ -24,7 +24,8 @@
       {
         "src": "/favicon.svg",
         "type": "image/svg",
+        "purpose": "maskable",
         "sizes": "700x700"
       }
-  ]
+  ]    
 }
