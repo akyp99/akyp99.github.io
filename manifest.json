@@ -22,7 +22,7 @@
   // you may not be able to install the app. 
   "icons": [
       {
-        "src": "/favicon.svg",
+        "src": "/assets/images/favicon.svg",
         "type": "image/svg",
         "purpose": "maskable",
         "sizes": "700x700"
