@@ -2,7 +2,6 @@
   "name": "AKYP99",
   "short_name": "akyp99",
   "description": "Github Page as a Progressive Web App",
-  "scope": "/",
   "start_url": "https://akyp99.github.io/?utm_source=PWA&launcher=true",
   "background_color": "#ffffff",
   "theme_color": "#ecf3ff",
