@@ -4,13 +4,11 @@ title: Linked Lists
 permalink: /pages/coding/linked_lists
 ---
 
-# Linked Lists
-
-## Notes
+# Notes
 
 * The head element of a singly linked list should always be tracked or else it will be garbage collected.
   
-## Basics
+# Basics
 
 ```python
 # Definition for singly-linked list.
@@ -20,9 +18,9 @@ class ListNode(object):
         self.next = next
 ```
 
-## Problems
+# Problems
 
-### Reverse a linked list
+## Reverse a linked list
 
 ```python
 class Solution(object):
