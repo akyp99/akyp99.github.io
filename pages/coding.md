@@ -6,4 +6,5 @@ permalink: /pages/coding/
 
 Here are the list of important concepts:
 
-* [Linked Lists](/pages/coding/linked_lists)
+* Data Structures
+  * [Linked Lists](/pages/coding/linked_lists)
